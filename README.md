@@ -39,7 +39,7 @@ I'm building my data analytics portfolio to demonstrate my skills through practi
 Exploratory analysis of movie ratings and viewing trends to understand audience preferences and support data-driven recommendations for a streaming platform.
 
 - **Tools:** Excel / Power BI 
-- **Repository:** [`Streamflix-movie-analysis`](https://github.com/meenarawat04/streamflix-movie-analysis\README.md)
+- **Repository:** [`Streamflix-movie-analysis`](https://github.com/meenarawat04/streamflix-movie-analysis/README.md)
 
 ## 🤝 Connect With Me
 
