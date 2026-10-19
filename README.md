@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Meena 👋
 
-<!--
-**meenarawat04/meenarawat04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst | Experienced Web Developer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+- 📊 Building my skills in Excel, Power BI, SQL, and Python
+- 🤖 Learning how to use AI tools safely and responsibly to support data analysis, improve productivity, and generate insights
+- 🔐 Exploring responsible AI practices, including data privacy, accuracy, and validating AI-generated results
+- 💡 Passionate about turning data into actionable insights that drive business decisions.
+- 🌱 Continuously learning and building practical analytics projects
+- 🎯 Aspiring to combine my web development experience with data analytics to solve real-world problems
+
+## 🛠️ Technical Skills
+
+| Category | Skills |
+|---|---|
+| Spreadsheet Analysis | Microsoft Excel |
+| Data Visualization & Business Intelligence | Power BI |
+| Database Querying | SQL |
+| Programming & Data Analysis | Python |
+| Previous Technical Experience | Web Development |
+
+## 📊 Areas of Interest
+
+- AI-Powered Data Analytics and Automation
+- Exploratory Data Analysis and Data Cleaning
+- Business Intelligence and Power BI Dashboards
+- SQL-Based Data Analysis and Reporting
+- Python for Data Analytics
+
+## 🚀 Featured Projects
+
+I'm building my data analytics portfolio to demonstrate my skills through practical, data-driven projects.
+
+### 1. [Streamflix-movie-analysis]
+Exploratory analysis of movie ratings and viewing trends to understand audience preferences and support data-driven recommendations for a streaming platform.
+
+- **Tools:** Excel / Power BI 
+- **Repository:** [`Streamflix-movie-analysis`](streamflix-movie-analysis\README.md)
+
+## 🤝 Connect With Me
+
+- [`**GitHub:**`](https://github.com/meenarawat04)
+- [`**LinkedIn:**`](https://www.linkedin.com/in/meenarawat04)
+- [`**Email:**`](mailto:meenarawat04@gmail.com)
+
+---
+
+*Combining my web development experience with data analytics to turn data into actionable insights that drive business decisions.*
