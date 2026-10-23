@@ -6,7 +6,7 @@
 
 ## 👩‍💻 About Me
 
-- 📊 Building my skills in Excel, Power BI, SQL, and Python
+- 📊 Building my skills in Python, SQL, PowerBI and Excel
 - 🤖 Learning how to use AI tools safely and responsibly to support data analysis, improve productivity, and generate insights
 - 🔐 Exploring responsible AI practices, including data privacy, accuracy, and validating AI-generated results
 - 💡 Passionate about turning data into actionable insights that drive business decisions.
