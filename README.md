@@ -17,25 +17,30 @@
 
 | Category | Skills |
 |---|---|
-| Spreadsheet Analysis | Microsoft Excel |
-| Data Visualization & Business Intelligence | Power BI |
 | Database Querying | SQL |
 | Programming & Data Analysis | Python |
+| Data Visualization & Business Intelligence | Power BI |
+| Spreadsheet Analysis | Microsoft Excel |
 | Previous Technical Experience | Web Development |
 
 ## 📊 Areas of Interest
 
 - AI-Powered Data Analytics and Automation
-- Exploratory Data Analysis and Data Cleaning
-- Business Intelligence and Power BI Dashboards
 - SQL-Based Data Analysis and Reporting
 - Python for Data Analytics
+- Exploratory Data Analysis and Data Cleaning
+- Business Intelligence and Power BI Dashboards
 
 ## 🚀 Featured Projects
 
 I'm building my data analytics portfolio to demonstrate my skills through practical, data-driven projects.
+### 1. [Olist E-Commerce Business Performance Analysis]
+An end-to-end business performance analysis of the Brazilian E-Commerce Public Dataset by Olist, covering orders, customers, sellers, products, payments and reviews from a Brazilian marketplace.
 
-### 1. [Streamflix-movie-analysis]
+- **Tools:** SQL / Python / Power BI 
+- **Repository:** [`Olist E-Commerce Business Performance Analysis`](https://github.com/meenarawat04/Olist E-Commerce Business Performance Analysis)
+
+### 2. [Streamflix-movie-analysis]
 Exploratory analysis of movie ratings and viewing trends to understand audience preferences and support data-driven recommendations for a streaming platform.
 
 - **Tools:** Excel / Power BI 
