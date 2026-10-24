@@ -38,7 +38,7 @@ I'm building my data analytics portfolio to demonstrate my skills through practi
 An end-to-end business performance analysis of the Brazilian E-Commerce Public Dataset by Olist, covering orders, customers, sellers, products, payments and reviews from a Brazilian marketplace.
 
 - **Tools:** SQL / Python / Power BI 
-- **Repository:** [`Olist E-Commerce Business Performance Analysis`](https://github.com/meenarawat04/Olist E-Commerce Business Performance Analysis)
+- **Repository:** [`Olist E-Commerce Business Performance Analysis`](https://github.com/meenarawat04/Olist-E-Commerce-Business-Performance-Analysis)
 
 ### 2. [Streamflix-movie-analysis]
 Exploratory analysis of movie ratings and viewing trends to understand audience preferences and support data-driven recommendations for a streaming platform.
